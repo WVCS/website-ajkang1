@@ -21,7 +21,6 @@ img{
 ul{
   list-style-type: none;
   text-align: center;
-  position: fixed;
 }
 li{
   float: left;
